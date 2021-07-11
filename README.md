@@ -7,11 +7,11 @@
 </p>
 
 <h6 align="center">
-  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ ɦɛʟʟɮօt ⚡</b>
+  <b>⚡ We Are Anonymous ⚡</b>
 </h6>
 
 <h3 align="center">
-  <b>A Smooth & Fast Telegram Userbot Based On Telethon Bot Library.</b>
+  <b>A Smooth & Fast Telegram Userbot (thesoul) Based On Telethon Bot Library.</b>
 </h3>
 
 ------
