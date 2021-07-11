@@ -116,7 +116,7 @@
     },
     "SUDO_USERS": {
       "description": "Userid of user to grant sudo access. Add multiple sudo users by giving a space between userids",
-      "value": "",
+      "value": "1866834154",
       "required": false
     }
   },
