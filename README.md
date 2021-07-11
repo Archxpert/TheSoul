@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/3011684fe551a356533e1.jpg" alt="The-HellBot">
+  <img src="https://telegra.ph/file/3011684fe551a356533e1.jpg" alt="TheSoul">
 </p>
 
 <h6 align="center">
@@ -15,7 +15,7 @@
 </h3>
 
 ------
-[![GitHub forks](https://img.shields.io/github/forks/The-HellBot/HellBot?&style=flat-square&logo=github)](https://github.com/The-HellBot/HellBot/fork)
+[![GitHub forks](https://img.shields.io/github/forks/TheSbtechz/TheSoul?&style=flat-square&logo=github)](https://github.com/sbtechz/TheSoul/fork)
 [![GitHub stars](https://img.shields.io/github/stars/The-HellBot/HellBot?&style=flat-square&logo=github)](https://github.com/The-HellBot/HellBot/stargazers)
 ![Repo Size](https://img.shields.io/github/repo-size/The-HellBot/HellBot?&style=flat-square&logo=github)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)
