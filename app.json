@@ -1,7 +1,7 @@
 {
-  "name": "Hêllẞø†",
-  "description": "Hêllẞø† is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.",
-  "logo": "https://telegra.ph/file/7decf235312af8536e9aa.jpg ",
+  "name": "TheSoulArmy",
+  "description": "TheSoul is one of most powerful telegram userbot full safe ",
+  "logo": "https://telegra.ph/file/2769c56b908ae776c7fcf.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -11,9 +11,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/The-HellBot/HellBot/",
-  "website": "https://github.com/The-HellBot/",
-  "success_url": "https://t.me/The_HellBot",
+  "repository": "https://github.com/sbtechz/thesoul/",
+  "website": "https://thesoul.ml/",
+  "success_url": "https://t.me/TheSoulArmy",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
