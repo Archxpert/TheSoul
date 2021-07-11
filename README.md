@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>†hê Hêllẞø† 🇮🇳</b>
+  <b>The Soul Army</b>
 </h1>
 
 <p align="center">
